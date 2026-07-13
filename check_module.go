@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	myModule "github.com/PajiloyLis/GO_Yandex_Practicum_Base_Course/tree/master/module"
+	myModule "github.com/PajiloyLis/GO_Yandex_Practicum_Base_Course"
 )
 
 func main() {
